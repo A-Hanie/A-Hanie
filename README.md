@@ -1,3 +1,3 @@
 # A-Hanie
 
-<img align="center" alt="Coding" width="1280" src="media/Room.gif">
+<img align="center" alt="Coding" width="720" src="media/Room.gif">
