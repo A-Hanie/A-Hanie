@@ -1,5 +1,5 @@
 # A-Hanie 
-<img align="center" alt="Coding" width="720" src="media/Room.gif">
+<img align="center" alt="Coding" width="1080" src="media/Room.gif">
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
