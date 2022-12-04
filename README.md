@@ -1,6 +1,7 @@
 # A-Hanie
-<h1 align="center">Hi 👋, I'm Hanie</h1>
 <img align="center" alt="Coding" width="1080" src="media/Room.gif">
+
+<h1 align="center">Hi 👋, I'm Hanie</h1>
 
 - 🔭 I’m currently working on **neat projects with microcontrollers**
 
