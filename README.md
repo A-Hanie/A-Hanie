@@ -2,11 +2,9 @@
 <img align="center" alt="Coding" width="1080" src="media/Room.gif">
 
 <h1 align="center">Hi 👋, I'm Hanie</h1>
+<!--- 🔭 I’m currently working on **neat projects with microcontrollers**-->
 
-- 🔭 I’m currently working on **neat projects with microcontrollers**
-
-- 🌱 I’m currently learning **Advanced Control Theory, Category Theory, Reinforcement learning**
-
+<!--- 🌱 I’m currently learning **Advanced Control Theory, Category Theory, Reinforcement learning**-->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
