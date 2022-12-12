@@ -5,7 +5,7 @@
 <br />
 <img align="right" alt="Coding" width="420" src="media/UFO.jpg">
 
-<h1 align="center">Hi 👋, I'm Hanie</h1>
+<h1 align="left">Hi 👋, I'm Hanie</h1>
 
 🔭 I’m currently working on **neat projects with microcontrollers**
 
