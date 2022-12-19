@@ -7,7 +7,7 @@
 
 <h1 align="left">Hi 👋, I'm Hanie</h1>
 
-🔭 I’m currently working on **neat projects with microcontrollers**
+<!--- 🔭 I’m currently working on **neat projects with microcontrollers**-->
 
 🌱 I’m currently learning **Advanced Control Theory, Category Theory, Reinforcement learning**
 <br />
