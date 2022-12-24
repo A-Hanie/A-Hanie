@@ -70,3 +70,4 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/labview/labview-original.svg" alt="labview" width="40" height="40" />
   </a>
 </p>
+![Visitor Count](https://profile-counter.glitch.me/A-Hanie/count.svg)
