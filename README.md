@@ -17,7 +17,7 @@
 <br />
 <br />
 <h3 align="left">Languages and Tools:</h3>
-<!-- <p align="left">
+ <p align="left">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" />
   </a>
@@ -70,4 +70,4 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/labview/labview-original.svg" alt="labview" width="40" height="40" />
   </a>
 </p>
- -->
+ 
