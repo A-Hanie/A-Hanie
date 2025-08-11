@@ -1,15 +1,14 @@
-# A-Hanie
-<img align="center" alt="Coding" width="1080" src="media/Room.gif">
-<br />
-<br />
-<br />
-<img align="right" alt="Coding" width="420" src="media/UFO.jpg">
+<img align="center" width="100%" src="media/Room.gif" />
 
-<h1 align="left">Hi 👋, I'm Hanie</h1>
+<h1 align="left">Hey 👋, I'm Hanie</h1>
+
+<img align="right" width="420" src="media/UFO.jpg" />
+
+
 
 <!--- 🔭 I’m currently working on rocontrollers**-->
 
-
+<!--- 
 <br />
 <br />
 <br />
@@ -70,4 +69,4 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/labview/labview-original.svg" alt="labview" width="40" height="40" />
   </a>
 </p>
- 
+ -->
